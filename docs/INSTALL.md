@@ -8,7 +8,7 @@
 ## Option 1: Clone from GitHub (recommended)
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/meetingos-lite.git
+git clone https://github.com/mattyhall99/meetingos-lite.git
 ```
 
 Then copy the skill folder to your Claude skills directory:
@@ -35,7 +35,7 @@ Copy-Item -Recurse meetingos-lite\.claude\skills\meetingos-lite $env:USERPROFILE
 If you use Claude Code, add the skill directly:
 
 ```bash
-claude skills add https://github.com/YOUR_USERNAME/meetingos-lite
+claude skills add https://github.com/mattyhall99/meetingos-lite
 ```
 
 ## Verify Installation
