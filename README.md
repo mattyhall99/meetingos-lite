@@ -42,7 +42,7 @@ cp -r path/to/meetingos-lite .claude/skills/meetingos-lite
 Or add this repo as a skill source directly:
 
 ```bash
-claude skills add https://github.com/YOUR_USERNAME/meetingos-lite
+claude skills add https://github.com/mattyhall99/meetingos-lite
 ```
 
 ## Usage
