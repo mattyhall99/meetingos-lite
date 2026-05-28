@@ -75,14 +75,14 @@ The Doc Chase platform recovered to Green after firewall resolution.
 ### Actions
 | Action                                                        | Owner         | Due            |
 |---------------------------------------------------------------|---------------|----------------|
-| Populate AMA document with questions ahead of Thursday        | All leads     | Before Thu     |
-| Submit all R1 dependencies to finalise requirements           | Steve P       | Fri 30 May     |
-| Clarify observation trigger mechanism with Spotlight team     | David L       | Thu 29 May     |
-| Follow up on balance mismatch signal status for R1            | Matt H        | 26 May         |
-| Determine feasibility of nine new signals and resource impact | Oscar R       | TBD (urgent)   |
-| Split tracker: Doc Chasing (green) vs remaining scope (red)   | Matt H        | 26 May         |
-| Follow up on overdue commitment dates from 22 May             | Matt H        | 26 May         |
-| Demo basic doc chasing agent                                  | Shane K       | End of week    |
+| Populate document with questions ahead of Thursday            | All leads     | Before Thu     |
+| Submit all dependencies to finalise requirements              | Mark          | Fri 30 May     |
+| Clarify trigger mechanism with engineering team               | David         | Thu 29 May     |
+| Follow up on status for launch                                | Matt          | 26 May         |
+| Determine feasibility and resource impact                     | John          | TBD (urgent)   |
+| Split tracker: Original scope (green) vs remaining scope (red)| Matt          | 26 May         |
+| Follow up on overdue commitment dates from 22 May             | Matt          | 26 May         |
+| Demo basic agent                                              | Shane         | End of week    |
 
 8 actions identified.
 
@@ -129,4 +129,4 @@ MIT License. Free for personal and commercial use. See [LICENSE](LICENSE) for de
 
 ---
 
-**Built by [Matt Hall](https://linkedin.com/in/YOUR_LINKEDIN)** — Principal TPM, CrossFit coach, and builder of tools that make programs run themselves.
+**Built by [Matt Hall](https://www.linkedin.com/in/mattdhall/)** — Principal TPM, Architect, and builder of tools that make programs run themselves.
