@@ -4,6 +4,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Claude Skill](https://img.shields.io/badge/Claude-Skill-blueviolet)](https://claudemarketplaces.com)
+[![Pro Version](https://meetingos.lemonsqueezy.com/checkout/buy/6108c2a3-14b8-419f-84cd-b45d30c579ac)
 
 ---
 
